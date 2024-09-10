@@ -2,9 +2,18 @@
 
 ## About the Project
 
-First SwiftUI app to split a cheque between people. It considers the cheque amount, the tip percentage, and how many people there are.
+A SwiftUI app that converts from one unit of time measurement to another.
+
+Follow-up to this project: https://github.com/GoodMorningA1i/hackingwithswiftui_project1
 
 This project covers topics like the basic structure of SwiftUI apps, Form, Section, NavigationStack, navigation bar titles, storing program state with @State and @FocusState, Picker, TextField vs Text, and ForEach.
+
+## Diagrams
+
+| **General Design** | **Demonstrating Keyboard with "Done" Functionality** |
+| :---: | :---: |
+| ![Simulator Screenshot - iPhone 15 Pro - 2024-09-10 at 11 54 48](https://github.com/user-attachments/assets/7bfc476a-bb7f-445f-9a6b-37699c03ec44) | ![Simulator Screenshot - iPhone 15 Pro - 2024-09-10 at 11 55 03](https://github.com/user-attachments/assets/7f7ccb0f-13e0-4848-a019-43cc1abddcc7) |
+
 
 ### Built With
 
@@ -34,8 +43,6 @@ You should replace `your_username` and `project_name` respectively.
 
 ## Acknowledgements
 
-This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. Part 3 introduces a challenge for learning purposes and it is where I incorporate my additions to this project.
+This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. 
 
-- Part 1: https://www.hackingwithswift.com/100/swiftui/16
-- Part 2: https://www.hackingwithswift.com/100/swiftui/17
-- Part 3: https://www.hackingwithswift.com/100/swiftui/18
+- Challenge Day: https://www.hackingwithswift.com/100/swiftui/19
